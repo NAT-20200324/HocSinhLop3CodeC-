@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\bin\Debug\HocSinhLop3[KTPM].exe.config
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3[KTPM].csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.frmMenu.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.Properties.Resources.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3[KTPM].csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\bin\Debug\HocSinhLop3[KTPM].exe
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\bin\Debug\HocSinhLop3[KTPM].pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3[KTPM].exe
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3[KTPM].pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.frmDkyGv.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.frmDkyHs.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.frmGiaoVien.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.frmHocSinh.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\HocSinhLop3[KTPM]\obj\Debug\HocSinhLop3_KTPM_.FrmDangNhap.resources
