@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\bin\Debug\TestDangNhap.dll.config
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\bin\Debug\TestDangNhap.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\bin\Debug\TestDangNhap.pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.SqlServerUnitTestDangNhapGv.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestDangNhap\obj\Debug\TestDangNhap.SqlServerUnitTestDangNhapHs.resources

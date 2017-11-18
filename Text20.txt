@@ -1,0 +1,21 @@
+aaaaaaaaaaaaaaaaaaaa
+
+code:
+#include<iostream>
+#include<string>
+#include<fstream>
+
+using namespace std;
+int main()
+{
+	fstream f;
+	f.open("Text20.txt", ios::out);
+	string arr;
+	for (int i = 0; i <= 19; i++)
+	{
+		arr+="a";
+	}
+	f << arr;
+	f.close();
+	system("pause");
+}

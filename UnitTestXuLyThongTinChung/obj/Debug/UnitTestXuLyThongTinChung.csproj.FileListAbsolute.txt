@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\bin\Debug\UnitTestXuLyThongTinChung.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\bin\Debug\UnitTestXuLyThongTinChung.pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\bin\Debug\HocSinhLop3[KTPM].exe
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\bin\Debug\HocSinhLop3[KTPM].pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\obj\Debug\UnitTestXuLyThongTinChung.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\obj\Debug\UnitTestXuLyThongTinChung.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\UnitTestXuLyThongTinChung\obj\Debug\UnitTestXuLyThongTinChung.pdb

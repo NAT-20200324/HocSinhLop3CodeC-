@@ -245,5 +245,23 @@ namespace HocSinhLop3_KTPM_
             cnn.Close();
             return kq;
         }
+
+        public int KiemTraTruocKhiNhanXet(string taiKhoan, int maBaiTap)
+        {
+            int kq = 0;
+            cnn = new SqlConnection(cnStr);
+            cmd = new SqlCommand("KiemTraTruocKhiNhanXet", cnn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add(new SqlParameter("@taiKhoan", taiKhoan));
+            cmd.Parameters.Add(new SqlParameter("@maBaiTap", maBaiTap));
+            cmd.Parameters.Add(new SqlParameter("@bool", SqlDbType.Int, 100));
+            cmd.Parameters["@bool"].Direction = System.Data.ParameterDirection.Output;
+            cnn.Open();
+            cmd.Parameters["@bool"].Value = 0;
+            cmd.ExecuteNonQuery();
+            kq = Int32.Parse(cmd.Parameters["@bool"].Value.ToString());
+            cnn.Close();
+            return kq;
+        }
     }
 }

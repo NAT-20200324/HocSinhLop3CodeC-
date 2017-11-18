@@ -1,0 +1,71 @@
+18/11/2017 4:29:28 CH	This log contains information about the import schema operation into project 'Database1' on computer 'HP-PC' by user 'Hp'.
+18/11/2017 4:29:28 CH	Import of database schema has started.
+18/11/2017 4:29:37 CH	Gathering database options
+18/11/2017 4:29:37 CH	Gathering users
+18/11/2017 4:29:37 CH	Gathering roles
+18/11/2017 4:29:37 CH	Gathering application roles
+18/11/2017 4:29:37 CH	Gathering role memberships
+18/11/2017 4:29:37 CH	Gathering filegroups
+18/11/2017 4:29:37 CH	Gathering full-text catalogs
+18/11/2017 4:29:37 CH	Gathering assemblies
+18/11/2017 4:29:37 CH	Gathering certificates
+18/11/2017 4:29:37 CH	Gathering asymmetric keys
+18/11/2017 4:29:37 CH	Gathering symmetric keys
+18/11/2017 4:29:37 CH	Gathering encrypted symmetric keys
+18/11/2017 4:29:37 CH	Gathering schemas
+18/11/2017 4:29:37 CH	Gathering XML schema collections
+18/11/2017 4:29:37 CH	Gathering user-defined data types
+18/11/2017 4:29:37 CH	Gathering user-defined types
+18/11/2017 4:29:37 CH	Gathering table types
+18/11/2017 4:29:37 CH	Gathering unique keys for table types
+18/11/2017 4:29:37 CH	Gathering primary keys for table types
+18/11/2017 4:29:37 CH	Gathering check constraints for table types
+18/11/2017 4:29:37 CH	Gathering default constraints for table types
+18/11/2017 4:29:37 CH	Gathering partition functions
+18/11/2017 4:29:37 CH	Gathering partition schemes
+18/11/2017 4:29:37 CH	Gathering functions
+18/11/2017 4:29:37 CH	Gathering encrypted functions
+18/11/2017 4:29:37 CH	Gathering aggregates
+18/11/2017 4:29:37 CH	Gathering procedures
+18/11/2017 4:29:38 CH	Gathering encrypted procedures
+18/11/2017 4:29:38 CH	Gathering tables
+18/11/2017 4:29:38 CH	Gathering primary keys
+18/11/2017 4:29:38 CH	Gathering unique constraints
+18/11/2017 4:29:38 CH	Gathering foreign keys
+18/11/2017 4:29:38 CH	Gathering default constraints
+18/11/2017 4:29:38 CH	Gathering check constraints
+18/11/2017 4:29:38 CH	Gathering views
+18/11/2017 4:29:38 CH	Gathering encrypted views
+18/11/2017 4:29:38 CH	Gathering indexes
+18/11/2017 4:29:38 CH	Gathering statistics
+18/11/2017 4:29:38 CH	Gathering full-text index stoplists
+18/11/2017 4:29:38 CH	Gathering full-text indexes
+18/11/2017 4:29:38 CH	Gathering spatial indexes
+18/11/2017 4:29:38 CH	Gathering XML indexes
+18/11/2017 4:29:38 CH	Gathering encrypted triggers
+18/11/2017 4:29:38 CH	Gathering triggers
+18/11/2017 4:29:38 CH	Gathering encrypted and clr ddl triggers
+18/11/2017 4:29:38 CH	Gathering ddl triggers
+18/11/2017 4:29:38 CH	Gathering synonyms
+18/11/2017 4:29:38 CH	Gathering defaults
+18/11/2017 4:29:38 CH	Gathering data constraint uddt bindings
+18/11/2017 4:29:38 CH	Gathering rules
+18/11/2017 4:29:38 CH	Gathering data constraint uddt bindings
+18/11/2017 4:29:38 CH	Gathering message types
+18/11/2017 4:29:38 CH	Gathering queues
+18/11/2017 4:29:38 CH	Gathering contracts
+18/11/2017 4:29:38 CH	Gathering services
+18/11/2017 4:29:38 CH	Gathering event notifications
+18/11/2017 4:29:38 CH	Gathering remote service bindings
+18/11/2017 4:29:38 CH	Gathering broker priorities
+18/11/2017 4:29:38 CH	Gathering signatures
+18/11/2017 4:29:38 CH	Gathering data compression options
+18/11/2017 4:29:38 CH	Gathering extended properties
+18/11/2017 4:29:38 CH	Gathering credentials
+18/11/2017 4:29:38 CH	Gathering logins
+18/11/2017 4:29:38 CH	Gathering server audits
+18/11/2017 4:29:39 CH	Scanning project for duplicate elements
+18/11/2017 4:29:39 CH	Finished duplicate element processing
+18/11/2017 4:29:39 CH	Finished importing database.
+18/11/2017 4:29:39 CH	A summary of the import was saved to the following location: C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\Database1\Import Schema Logs\Database1_20171118092928.log
+18/11/2017 4:29:39 CH	Click Finish to continue...

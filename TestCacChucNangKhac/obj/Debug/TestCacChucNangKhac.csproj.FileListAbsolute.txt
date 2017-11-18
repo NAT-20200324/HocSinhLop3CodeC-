@@ -1,0 +1,9 @@
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\bin\Debug\TestCacChucNangKhac.dll.config
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\bin\Debug\TestCacChucNangKhac.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\bin\Debug\TestCacChucNangKhac.pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.dll
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.pdb
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.SqlServerUnitTestUpGhiChu.resources
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\HocSinhLop3[KTPM]\TestCacChucNangKhac\obj\Debug\TestCacChucNangKhac.SqlServerUnitTestKTTruocKhiNhanXet.resources

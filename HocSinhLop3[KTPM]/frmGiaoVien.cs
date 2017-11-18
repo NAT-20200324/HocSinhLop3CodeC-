@@ -85,6 +85,8 @@ namespace HocSinhLop3_KTPM_
             data = new DataSql();
             if (txtMaBaiTap.Text == "")
                 MessageBox.Show("Nhập mã bài tập cần nhận xét.");
+            else if (data.KiemTraTruocKhiNhanXet(taiKhoanGv, Int32.Parse(txtMaBaiTap.Text)) == 1)
+                MessageBox.Show("Giáo viên chỉ được nhận xét cho bài tập của học sinh trong lớp mình dạy.");
             else
             {
                 int maBaiTap = Int32.Parse(txtMaBaiTap.Text);
